@@ -1,0 +1,17 @@
+{
+  "name": "sp-music-recommendations-main",
+  "version": "1.0.0",
+  "description": "A simple website to add Spotify links of music that you would recommend to people and maintains a leaderboard of the number of songs associated w each profile.",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
